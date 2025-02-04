@@ -1,3 +1,5 @@
+About me
+
 - 👋 Hi there, I’m Rishik!
 - 👀 Data Science enthusiast with a passion for exploring the capabilities of Language Models
 - 🌱 Currently diving into the world of GenAI
