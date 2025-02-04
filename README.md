@@ -12,7 +12,7 @@ Hi there! I’m **Rishik**
 📊 **Data Science & ML**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
 ⚡ **Tools & Platforms**: Git, Streamlit, Power BI
 
-## 📫 Contact  
+## 🌐 Connect with me  
 <!--
 📧 Email: rishikolla2003@gmail.com  
 🔗 [LinkedIn](#) (https://www.linkedin.com/in/rishikolla18/)  
