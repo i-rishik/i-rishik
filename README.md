@@ -1,16 +1,16 @@
 # 👋 About Me  
 Hi there! I’m **Rishik**  
 
-🔹 Passionate **Data Science** enthusiast, exploring the power of **Language Models & GenAI**  
+🔹 Passionate **Data Science** enthusiast, exploring the power of **Large Language Models & GenAI**  
 🔹 Currently diving deep into **Generative AI** and its real-world applications  
 🔹 Open to **collaborations** on **ML, NLP, and LLM**-based projects  
 🔹 Actively seeking **exciting opportunities** for **remote or on-site** work  
 🔹 Drop me a line at rishikolla2003@gmail.com  
 
 ## 💡 Tech Stack  
-🚀 **Languages & Frameworks**: Python, SQL, HTML, CSS  
-📊 **Data Science & ML**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
-⚡ **Tools & Platforms**: Git, Streamlit, Power BI
+**Languages & Frameworks**: Python, SQL, HTML, CSS, Flask, Streamlit, LangChain  
+**AI & ML**: LLMs, Pinecone, FAISS, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+**Tools & Platforms**: Git, Power BI
 
 ## 🌐 Connect with me  
 <!--
